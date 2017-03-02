@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C0A-F39D
+
+ Directory of C:\Users\RAMESH\Desktop\Krishna
+
+03/02/2017  11:26 AM    <DIR>          .
+03/02/2017  11:26 AM    <DIR>          ..
+03/02/2017  11:25 AM               436 Running.class
+03/02/2017  11:21 AM               127 Running.java
+03/02/2017  11:26 AM                 0 test.txt
+               3 File(s)            563 bytes
+               2 Dir(s)  122,718,961,664 bytes free
